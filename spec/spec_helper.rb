@@ -1,0 +1,1 @@
+require 'snoobi/client'
